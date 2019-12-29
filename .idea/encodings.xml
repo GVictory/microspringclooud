@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-overriding" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix-factory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix-propagation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-discovery-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-file-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-file-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-getaway-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-getaway-zuul-reg-exp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-hystrix-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-provider-user" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-consumer-movie" />
+        <module name="microservice-consumer-movie-feign" />
+        <module name="microservice-consumer-movie-feign-overriding" />
+        <module name="microservice-consumer-movie-feign-with-hystrix" />
+        <module name="microservice-consumer-movie-feign-with-hystrix-factory" />
+        <module name="microservice-consumer-movie-ribbon" />
+        <module name="microservice-consumer-movie-ribbon-with-hystrix" />
+        <module name="microservice-consumer-movie-ribbon-with-hystrix-propagation" />
+        <module name="microservice-discovery-eureka" />
+        <module name="microservice-file-upload" />
+        <module name="microservice-getaway-zuul" />
+        <module name="microservice-getaway-zuul-reg-exp" />
+        <module name="microservice-hystrix-dashboard" />
+        <module name="microservice-hystrix-turbine" />
+        <module name="microservice-provider-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice-consumer-movie (1)" target="1.8" />
+      <module name="microservice-consumer-movie-feign-with-hystrix-" target="1.8" />
+      <module name="microservice-discovery-eureka (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="microservice-consumer-movie" options="-parameters" />
+      <module name="microservice-consumer-movie (1)" options="-parameters" />
+      <module name="microservice-consumer-movie-feign" options="-parameters" />
+      <module name="microservice-consumer-movie-feign-overriding" options="-parameters" />
+      <module name="microservice-consumer-movie-feign-with-hystrix" options="-parameters" />
+      <module name="microservice-consumer-movie-feign-with-hystrix-" options="-parameters" />
+      <module name="microservice-consumer-movie-feign-with-hystrix-factory" options="-parameters" />
+      <module name="microservice-consumer-movie-ribbon" options="-parameters" />
+      <module name="microservice-consumer-movie-ribbon-with-hystrix" options="-parameters" />
+      <module name="microservice-consumer-movie-ribbon-with-hystrix-propagation" options="-parameters" />
+      <module name="microservice-discovery-eureka" options="-parameters" />
+      <module name="microservice-discovery-eureka (1)" options="-parameters" />
+      <module name="microservice-file-upload" options="-parameters" />
+      <module name="microservice-getaway-zuul" options="-parameters" />
+      <module name="microservice-getaway-zuul-reg-exp" options="-parameters" />
+      <module name="microservice-hystrix-dashboard" options="-parameters" />
+      <module name="microservice-hystrix-turbine" options="-parameters" />
+      <module name="microservice-provider-user" options="-parameters" />
+    </option>
+  </component>
+</project>

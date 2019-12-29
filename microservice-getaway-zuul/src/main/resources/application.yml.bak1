@@ -1,0 +1,12 @@
+server:
+  port: 8040
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://user:123456@localhost:8761/eureka
+spring:
+  application:
+    name: zuul
+zuul:
+  routes:
+    microservice-provider-user: /user/**
